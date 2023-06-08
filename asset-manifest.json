@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Router-Platzi/static/css/main.a9d1a63e.css",
+    "main.js": "/React-Router-Platzi/static/js/main.ef1f20b3.js",
+    "index.html": "/React-Router-Platzi/index.html",
+    "static/media/delete.svg": "/React-Router-Platzi/static/media/delete.a2ce781d87539ab422ca9b3bbc2b4508.svg",
+    "static/media/edit.svg": "/React-Router-Platzi/static/media/edit.900a8fd203adc364a82d0ebc6ad8dc94.svg",
+    "static/media/check.svg": "/React-Router-Platzi/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.a9d1a63e.css.map": "/React-Router-Platzi/static/css/main.a9d1a63e.css.map",
+    "main.ef1f20b3.js.map": "/React-Router-Platzi/static/js/main.ef1f20b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d1a63e.css",
+    "static/js/main.ef1f20b3.js"
+  ]
+}
